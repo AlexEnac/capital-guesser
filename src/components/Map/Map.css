@@ -1,0 +1,31 @@
+.map-holder {
+  width: 80%;
+  height: 100vh;
+  float: left;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.answer-button {
+  background-color: #555555;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 8px;
+  transition-duration: 0.4s;
+}
+
+.answer-button:hover {
+  background-color: rgba(255, 255, 255, 0.966);
+  color: black;
+}
+
+.action-buttons {
+  position: absolute;
+  bottom: 1rem;
+}

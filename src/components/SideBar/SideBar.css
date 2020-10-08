@@ -1,0 +1,47 @@
+.side-bar {
+  float: right;
+  width: 20%;
+  height: 100vh;
+  background-color: rgb(189, 188, 188);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  position: absolute;
+  text-align: center;
+  width: inherit;
+  top: 0px;
+}
+
+.score-board {
+  text-align: center;
+  bottom: 0px;
+  position: absolute;
+}
+li {
+  display: inline-block;
+}
+.action-list {
+  top: 1px;
+}
+
+.game-state-button {
+  background-color: #555555;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 8px;
+  transition-duration: 0.4s;
+  width: inherit;
+}
+
+.game-state-button:hover {
+  background-color: rgba(255, 255, 255, 0.966);
+  color: black;
+}

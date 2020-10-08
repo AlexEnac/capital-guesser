@@ -1,0 +1,294 @@
+{
+    "capitalCities": [
+        {
+            "capitalCity": "Mariehamn",
+            "latitude": "60.116667",
+            "longitude": "19.900000"
+        },
+        {
+            "capitalCity": "Tirana",
+            "latitude": "41.31666666666667",
+            "longitude": "19.816667"
+        },
+        {
+            "capitalCity": "Andorra la Vella",
+            "latitude": "42.5",
+            "longitude": "1.516667"
+        },
+        {
+            "capitalCity": "Yerevan",
+            "latitude": "40.166666666666664",
+            "longitude": "44.500000"
+        },
+        {
+            "capitalCity": "Vienna",
+            "latitude": "48.2",
+            "longitude": "16.366667"
+        },
+        {
+            "capitalCity": "Baku",
+            "latitude": "40.38333333333333",
+            "longitude": "49.866667"
+        },
+        {
+            "capitalCity": "Minsk",
+            "latitude": "53.9",
+            "longitude": "27.566667"
+        },
+        {
+            "capitalCity": "Brussels",
+            "latitude": "50.833333333333336",
+            "longitude": "4.333333"
+        },
+        {
+            "capitalCity": "Sarajevo",
+            "latitude": "43.86666666666667",
+            "longitude": "18.416667"
+        },
+        {
+            "capitalCity": "Sofia",
+            "latitude": "42.68333333333333",
+            "longitude": "23.316667"
+        },
+        {
+            "capitalCity": "Zagreb",
+            "latitude": "45.8",
+            "longitude": "16.000000"
+        },
+        {
+            "capitalCity": "Nicosia",
+            "latitude": "35.166666666666664",
+            "longitude": "33.366667"
+        },
+        {
+            "capitalCity": "Prague",
+            "latitude": "50.083333333333336",
+            "longitude": "14.466667"
+        },
+        {
+            "capitalCity": "Copenhagen",
+            "latitude": "55.666666666666664",
+            "longitude": "12.583333"
+        },
+        {
+            "capitalCity": "Tallinn",
+            "latitude": "59.43333333333333",
+            "longitude": "24.716667"
+        },
+        {
+            "capitalCity": "Torshavn",
+            "latitude": "62",
+            "longitude": "-6.766667"
+        },
+        {
+            "capitalCity": "Helsinki",
+            "latitude": "60.166666666666664",
+            "longitude": "24.933333"
+        },
+        {
+            "capitalCity": "Paris",
+            "latitude": "48.86666666666667",
+            "longitude": "2.333333"
+        },
+        {
+            "capitalCity": "Tbilisi",
+            "latitude": "41.68333333333333",
+            "longitude": "44.833333"
+        },
+        {
+            "capitalCity": "Berlin",
+            "latitude": "52.516666666666666",
+            "longitude": "13.400000"
+        },
+        {
+            "capitalCity": "Gibraltar",
+            "latitude": "36.13333333333333",
+            "longitude": "-5.350000"
+        },
+        {
+            "capitalCity": "Athens",
+            "latitude": "37.983333333333334",
+            "longitude": "23.733333"
+        },
+        {
+            "capitalCity": "Saint Peter Port",
+            "latitude": "49.45",
+            "longitude": "-2.533333"
+        },
+        {
+            "capitalCity": "Vatican City",
+            "latitude": "41.9",
+            "longitude": "12.450000"
+        },
+        {
+            "capitalCity": "Budapest",
+            "latitude": "47.5",
+            "longitude": "19.083333"
+        },
+        {
+            "capitalCity": "Reykjavik",
+            "latitude": "64.15",
+            "longitude": "-21.950000"
+        },
+        {
+            "capitalCity": "Dublin",
+            "latitude": "53.31666666666667",
+            "longitude": "-6.233333"
+        },
+        {
+            "capitalCity": "Douglas",
+            "latitude": "54.15",
+            "longitude": "-4.483333"
+        },
+        {
+            "capitalCity": "Rome",
+            "latitude": "41.9",
+            "longitude": "12.483333"
+        },
+        {
+            "capitalCity": "Saint Helier",
+            "latitude": "49.18333333333333",
+            "longitude": "-2.100000"
+        },
+        {
+            "capitalCity": "Pristina",
+            "latitude": "42.666666666666664",
+            "longitude": "21.166667"
+        },
+        {
+            "capitalCity": "Riga",
+            "latitude": "56.95",
+            "longitude": "24.100000"
+        },
+        {
+            "capitalCity": "Vaduz",
+            "latitude": "47.13333333333333",
+            "longitude": "9.516667"
+        },
+        {
+            "capitalCity": "Vilnius",
+            "latitude": "54.68333333333333",
+            "longitude": "25.316667"
+        },
+        {
+            "capitalCity": "Luxembourg",
+            "latitude": "49.6",
+            "longitude": "6.116667"
+        },
+        {
+            "capitalCity": "Skopje",
+            "latitude": "42",
+            "longitude": "21.433333"
+        },
+        {
+            "capitalCity": "Valletta",
+            "latitude": "35.88333333333333",
+            "longitude": "14.500000"
+        },
+        {
+            "capitalCity": "Chisinau",
+            "latitude": "47",
+            "longitude": "28.850000"
+        },
+        {
+            "capitalCity": "Monaco",
+            "latitude": "43.733333333333334",
+            "longitude": "7.416667"
+        },
+        {
+            "capitalCity": "Podgorica",
+            "latitude": "42.43333333333333",
+            "longitude": "19.266667"
+        },
+        {
+            "capitalCity": "Amsterdam",
+            "latitude": "52.35",
+            "longitude": "4.916667"
+        },
+        {
+            "capitalCity": "Warsaw",
+            "latitude": "52.25",
+            "longitude": "21.000000"
+        },
+        {
+            "capitalCity": "Oslo",
+            "latitude": "59.916666666666664",
+            "longitude": "10.750000"
+        },
+        {
+            "capitalCity": "Lisbon",
+            "latitude": "38.71666666666667",
+            "longitude": "-9.133333"
+        },
+        {
+            "capitalCity": "Bucharest",
+            "latitude": "44.43333333333333",
+            "longitude": "26.100000"
+        },
+        {
+            "capitalCity": "Moscow",
+            "latitude": "55.75",
+            "longitude": "37.600000"
+        },
+        {
+            "capitalCity": "San Marino",
+            "latitude": "43.93333333333333",
+            "longitude": "12.416667"
+        },
+        {
+            "capitalCity": "Belgrade",
+            "latitude": "44.833333333333336",
+            "longitude": "20.500000"
+        },
+        {
+            "capitalCity": "Bratislava",
+            "latitude": "48.15",
+            "longitude": "17.116667"
+        },
+        {
+            "capitalCity": "Ljubljana",
+            "latitude": "46.05",
+            "longitude": "14.516667"
+        },
+        {
+            "capitalCity": "Madrid",
+            "latitude": "40.4",
+            "longitude": "-3.683333"
+        },
+        {
+            "capitalCity": "Longyearbyen",
+            "latitude": "78.21666666666667",
+            "longitude": "15.633333"
+        },
+        {
+            "capitalCity": "Stockholm",
+            "latitude": "59.333333333333336",
+            "longitude": "18.050000"
+        },
+        {
+            "capitalCity": "Bern",
+            "latitude": "46.916666666666664",
+            "longitude": "7.466667"
+        },
+        {
+            "capitalCity": "Ankara",
+            "latitude": "39.93333333333333",
+            "longitude": "32.866667"
+        },
+        {
+            "capitalCity": "Kyiv",
+            "latitude": "50.43333333333333",
+            "longitude": "30.516667"
+        },
+        {
+            "capitalCity": "London",
+            "latitude": "51.5",
+            "longitude": "-0.083333"
+        },
+        {
+            "capitalCity": "North Nicosia",
+            "latitude": "35.183333",
+            "longitude": "33.366667"
+        }
+    ]
+}
